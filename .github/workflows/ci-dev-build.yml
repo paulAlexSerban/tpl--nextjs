@@ -26,7 +26,7 @@ jobs:
           fetch-depth: 0
 
       - name: "🔍  Verify Changed Backend NextJS"
-        uses: tj-actions/changed-files@v23.1
+        uses: tj-actions/changed-files@v34
         id: changed-backend-nextjs
         with:
           files: |
