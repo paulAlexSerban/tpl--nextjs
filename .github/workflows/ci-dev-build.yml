@@ -30,6 +30,8 @@ jobs:
         id: changed-backend-nextjs
         with:
           files: |
+              backend/project/**/*.js
+              backend/project/**/*.json
               backend/project/**/*
 
       - name: List all changed files
