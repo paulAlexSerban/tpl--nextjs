@@ -1,1 +1,1 @@
-# tpl--nextjs
+# NextJS - Template - Vanilla
